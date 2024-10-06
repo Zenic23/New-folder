@@ -1,1 +1,1 @@
-Basic code of, ho to make GUI in python.
+Basic code of, how to make GUI in python.
